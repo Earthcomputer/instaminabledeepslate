@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "instaminabledeepslate",
+  "version": "${version}",
+  "name": "Instaminable Deepslate",
+  "description": "Allows you to instant mine deepslate with a netherite pickaxe",
+  "authors": [
+    "Earthcomputer"
+  ],
+  "contact": {
+    "issues": "https://github.com/Earthcomputer/instaminabledeepslate/issues",
+    "sources": "https://github.com/Earthcomputer/instaminabledeepslate"
+  },
+  "license": "MIT",
+  "icon": "assets/instaminabledeepslate/icon.png",
+  "environment": "*",
+  "entrypoints": {},
+  "mixins": [
+    "instaminabledeepslate.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "minecraft": ">=1.18"
+  }
+}
