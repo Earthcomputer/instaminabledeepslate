@@ -8,7 +8,7 @@ You need to install it.
 
 ### It still doesn't work
 
-Install it on the server AND the client. With Fabric. On 1.18.2. If you're on 1.19+ try installing Fabric API too.
+Install it on the server AND the client. With Fabric. On 1.19.4+.
 
 ### I want to be able to instamine obsidian with netherite
 
@@ -17,3 +17,7 @@ You can use a datapack, add obsidian to the `data/instaminabledeepslate/tags/blo
 ### I'm on 1.8.9
 
 No. Also deepslate and netherite didn't exist.
+
+### I'm on Forge/NeoForge
+
+Use a different mod.
