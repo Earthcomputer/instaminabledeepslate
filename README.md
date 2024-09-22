@@ -8,7 +8,7 @@ You need to install it.
 
 ### It still doesn't work
 
-Install it on the server AND the client. With Fabric. On 1.19.4+.
+Install it on the server AND the client. With Fabric. On 1.21+.
 
 ### I want to be able to instamine obsidian with netherite
 
