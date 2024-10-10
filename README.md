@@ -12,7 +12,7 @@ Install it on the server AND the client. With Fabric. On 1.21+.
 
 ### I want to be able to instamine obsidian with netherite
 
-You can use a datapack, add obsidian to the `data/instaminabledeepslate/tags/blocks/netherite_instaminable.json`.
+You can use a datapack, add obsidian to the `data/instaminabledeepslate/tags/block/netherite_instaminable.json`.
 
 ### I'm on 1.8.9
 
